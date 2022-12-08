@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Easy Move</string>
+    <string name="btnInicio">Iniciar Sesión</string>
+    <string name="Welcome">Bienvenido</string>
+    <string name="Continuar">Inicia sesión para continuar</string>
+    <string name="NoAccount">¿No tienes cuenta?</string>
+    <string name="Registro">Registrate aquí</string>
+    <string name="Registrarse">Registrarse</string>
+    <string name="passwordForgotten">¿Olvidaste tu contraseña?</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="usuario">Nombre de usuario</string>
+    <string name="correo">Correo</string>
+    <string name="logOut">Cerrar Sesion</string>
+    <string name="alertActivationGPSTitle">Permitir acceso a ubicación</string>
+    <string name="alertActivationGPSDescription">Si dessea obtener mas informacion sobre los cajeros, debe activar la ubicación.</string>
+    <string name="ignoreActivationGPSTitle">Ignorar</string>
+    <string name="acceptActivationGPSTitle">Activar</string>
+    <string name="bank">Escoge un banco</string>
+    <string name="favorite">Tus favoritos</string>
+    <string name="santander">Santander</string>
+    <string name="citibanamex">Citibanamex</string>
+    <string name="hsbc">HSBC</string>
+    <string name="bbva">BBVA</string>
+    <string name="bancoAzteca">Banco Azteca</string>
+    <string name="edit">Editar</string>
+    <string name="save">Guardar</string>
+    <string name="tipo">Tipo de servicio en el cajero(Deposito/Retiro)</string>
+    <string name="dinero">¿Tiene dinero?</string>
+    <string name="servicio">¿Esta fuera de servicio?</string>
+    <string name="map">Mostrar ubiación</string>
+
+
+    <!--Sucursales-->
+    <string name="sucursalBan1">La paz</string>
+    <string name="sucursalBan2">Reforma</string>
+    <string name="sucursalBan3">2 poniente</string>
+    <string name="sucursalBan4">Av.Juarez</string>
+    <string name="sucursalSan1">UPAEP</string>
+    <string name="sucursalSan2">La paz</string>
+    <string name="sucursalSan3">Av. Juarez</string>
+    <string name="sucursalSan4">14 oriente</string>
+    <string name="sucursal25pon">25 poniente</string>
+    <string name="sucursal14sur">14 sur</string>
+
+    <!--Sucursales-->
+    <string name="cajeroPaz">Cajero La paz</string>
+    <string name="cajeroJuarez">Cajero Av. Juarez</string>
+    <string name="cajero14">Cajero 14 oriente</string>
+    <string name="cajeroUPA">Cajero UPAEP</string>
+    <string name="cajeroreforma">Cajero reforma</string>
+    <string name="cajero25poniente">Cajero 25 poniente</string>
+    <string name="cajero2o">Cajero 2 oriente</string>
+
+
+</resources>
